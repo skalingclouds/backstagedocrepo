@@ -1,0 +1,8 @@
+site_name: "apidocs"
+site_description: "api"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
